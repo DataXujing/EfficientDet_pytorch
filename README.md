@@ -5,6 +5,7 @@
 **Xu Jing**
 
 Paper：<https://arxiv.org/abs/1911.09070>
+
 Base GitHub Repo:<https://github.com/zylo117/Yet-Another-EfficientDet-Pytorch>
 
 Official Repo:<https://github.com/google/automl/tree/master/efficientdet>
@@ -25,13 +26,13 @@ EfficientDet 算法中文介绍：[EfficientDet_CN.md](./EfficientDet_CN.md)
 
 **大赛简介**
 
-**「背景」**随着海洋观测的快速发展，水下物体检测在海军沿海防御任务以及渔业、水产养殖等海洋经济中发挥着越来越重要的作用，而水下图像是海洋信息的重要载体，本次比赛希望参赛者在真实海底图片数据中通过算法检测出不同海产品（海参、海胆、扇贝、海星）的位置。
+「背景」 随着海洋观测的快速发展，水下物体检测在海军沿海防御任务以及渔业、水产养殖等海洋经济中发挥着越来越重要的作用，而水下图像是海洋信息的重要载体，本次比赛希望参赛者在真实海底图片数据中通过算法检测出不同海产品（海参、海胆、扇贝、海星）的位置。
 
 ![](pic/data/p1.png)
 
-**「数据」**训练集是5543张 jpg 格式的水下光学图像与对应标注结果，A榜测试集800张，B榜测试集1200张。
+「数据」 训练集是5543张 jpg 格式的水下光学图像与对应标注结果，A榜测试集800张，B榜测试集1200张。
 
-**「评估指标」**mAP（mean Average Precision）
+「评估指标」 mAP（mean Average Precision）
 
 > 注：数据由鹏城实验室提供。
 
