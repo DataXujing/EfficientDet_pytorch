@@ -229,7 +229,7 @@ python train.py -c 2 --batch_size 8 --lr 1e-5 --debug True
 python efficientdet_test.py
 ```
 
-推断速度基本能到到实时：
+推断速度基本能达到实时：
 
 ![](pic/data/p2.png)
 
