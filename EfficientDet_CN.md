@@ -1,5 +1,7 @@
 ## EfficientDet: Scalable and Efficient Object Detection
 
+**Xu Jing**
+
 论文地址：https://arxiv.org/abs/1911.09070
 
 代码地址：https://github.com/google/automl/tree/master/efficientdet
