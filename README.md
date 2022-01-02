@@ -164,7 +164,7 @@ obj_list: ["holothurian","echinus","scallop","starfish"]
 
 ```
 # 从头训练自己的数据集 EfficientDet-D2
-python train.py -c 2 --batch_size 16 --lr 1e4
+python train.py -c 2 --batch_size 16 --lr 1e-4
 
 # train efficientdet-d2 在自己的数据集上使用预训练的模型(推荐)
 python train.py -c 2 --batch_size 8 --lr 1e-5 --num_epochs 10 \
